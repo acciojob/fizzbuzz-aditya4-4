@@ -6,7 +6,7 @@ for(let i=1;i<=20;i++){
 	else if( i % 5 == 0 && i % 3 != 0){
 		alert("Buzz");
 	}
-	else if( i % 3 == 0 && i % 35!= 0){
+	else if( i % 3 == 0 && i % 5!= 0){
 		alert("Fizz");
 	}
 	else{
